@@ -2,12 +2,14 @@
 	"d": "2023/10/18",
 	"apps": [
 		{
-			"name": "台灣勞基法",
-			"u": "laborlaw"
+			"n": "台灣勞基法",
+			"u": "laborlaw",
+			"i": "icon_labor.png"
 		},
 		{
-			"name": "薪資計機機",
-			"u": "salary"
+			"n": "薪資計機機",
+			"u": "salary",
+			"i": "icon_salary.png"
 		}
 	]
 }
