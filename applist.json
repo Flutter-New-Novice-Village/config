@@ -4,12 +4,16 @@
 		{
 			"n": "台灣勞基法",
 			"u": "laborlaw",
-			"i": "icon_labor.png"
+			"i": "icon_labor.png",
+			"and": "",
+			"ios": ""
 		},
 		{
 			"n": "薪資計機機",
 			"u": "salary",
-			"i": "icon_salary.png"
+			"i": "icon_salary.png",
+			"and": "https://play.google.com/store/apps/details?id=com.inevitablebts.salarycalculator",
+			"ios": "https://apps.apple.com/us/app/%E8%96%AA%E8%B3%87%E8%A8%88%E7%AE%97%E6%A9%9F/id6449247704"
 		}
 	]
 }
